@@ -1,4 +1,4 @@
-package aula1;
+package exemplo_thread;
 
 public class Ola extends Thread {
 	private String nome;
@@ -13,3 +13,4 @@ public class Ola extends Thread {
 		System.out.println("Ola, " + this.nome + "!");
 	}
 }
+

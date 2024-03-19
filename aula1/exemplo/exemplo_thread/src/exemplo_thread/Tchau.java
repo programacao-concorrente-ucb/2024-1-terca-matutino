@@ -1,4 +1,4 @@
-package aula1;
+package exemplo_thread;
 
 public class Tchau extends Thread {
 	private String nome;

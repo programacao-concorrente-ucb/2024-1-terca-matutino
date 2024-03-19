@@ -1,4 +1,4 @@
-package aula1;
+package exemplo_thread;
 
 public class ExemploThread {
 	 public static void main(String[] args) throws InterruptedException {
